@@ -1,0 +1,37 @@
+/*
+Template Name: HR2 - Template
+Version: 1.0
+Author: HostingRed SAS
+Author URL: http://hostingred.com
+*/
+/*******************************************
+USE THIS FILE TO INCLUDE YOUR OWN CSS STYLES
+********************************************/
+body{
+    font-family: 'Raleway', sans-serif;
+}
+
+.test{
+    font-size: 20px;
+    color: black;
+}
+.item{
+    min-height: 700px;
+}
+
+#about{
+    background-color: #e2e2e2;
+    padding-top: 75px;
+}
+
+#portfolio{
+    background-color: white;
+}
+.skills{
+    text-align: center;
+    list-style-type: none;
+}
+.btn.btn-primary{
+    background-color: grey;
+    border-color: none;
+}
